@@ -1,6 +1,6 @@
 services:
   appl:
-    build:
+    build: .
     environment:
       - APP_NAME=Appl1
     ports:
